@@ -1,0 +1,11 @@
+
+<br>
+
+<h2> Files available </h2>
+ 
+
+{% for file in site.static_files %}
+
+ {{ file.name }}, available in ({{ file.path }}) <br>
+
+{% endfor %}
