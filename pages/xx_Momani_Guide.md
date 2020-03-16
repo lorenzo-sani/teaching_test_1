@@ -1,7 +1,7 @@
 ---
 title: MoManI Guide
 layout: page
-permalink: /03_momaniguide
+permalink: /xx_momaniguide
 ---
 
 # Here is the MoMani User Manual
