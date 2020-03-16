@@ -8,4 +8,4 @@ Here is a list of the teaching modules available:
 1. lorem ipsum sed ...
 
 #### Additiona material:
--. [MoManI User Guide]({{site.url}}/03_MoManI_Guide)
+- [MoManI User Guide]({{site.url}}//xx_momaniguide)
