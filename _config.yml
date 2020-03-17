@@ -23,7 +23,7 @@ author: Lorenzo Sani
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   OSeMOSYS training kit
-baseurl: "teaching_test" # the subpath of your site, e.g. /blog
+baseurl: "teaching_test_1" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lorem ipsum
 github_username:  lorem ipsum
