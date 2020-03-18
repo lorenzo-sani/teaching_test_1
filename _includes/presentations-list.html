@@ -2,9 +2,9 @@
 <ul class="post-list">
 {% for presentation in site.presentations %}
   <li>
-    <h3>
+    <h4>
       <a href="{{ presentation.url | relative_url }}">{{ presentation.title | escape }}</a>
-    </h3>
+    </h4>
   </li>
 {% endfor %}
 </ul>
